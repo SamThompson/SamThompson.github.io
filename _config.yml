@@ -1,0 +1,31 @@
+# Site settings
+title: "Sam Thompson"
+email: 
+description: ""
+aseurl: ""
+url: "http://samthompson.me"
+title_description: "I'm a senior University of Texas at Austin computer science student mainly interested in Android. Outside of programming, I enjoy riding my bike competitively, soccer, and photography."
+title_image: "https://avatars3.githubusercontent.com/u/4391203?v=3&s=460"
+google_analytics: "UA-70351113-1"
+disqus_account: justsamthompson
+github_repository: https://github.com/st028/st028.github.io
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: justsamthompson 
+github_username:  st028
+linkedin_link: https://www.linkedin.com/in/sam-thompson-35617699 
+google_plus_link: https://plus.google.com/104557114210568575893
+stackoverflow_link: 
+
+# Footer
+footer_left: ""
+footer_right: "&copy 2015 Sam Thompson"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
