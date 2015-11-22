@@ -26,6 +26,7 @@ BubbleActions. It differs in a few tiny ways from the
 Pinterest version, but it's fairly close:
 <img src="/assets/bubble-actions-2.png" alt="BubbleActions screenshot 1" style="width: 300px;"/>
 
-You can find the code for BubbleActions on [Github](https://github.com/SamThompson/BubbleActions). Contributions
+BubbleActions supports adding up to 5 fully customizable actions. You can find the code and documentation 
+for BubbleActions on [Github](https://github.com/SamThompson/BubbleActions). Contributions
 and feedback are always welcome.
 
