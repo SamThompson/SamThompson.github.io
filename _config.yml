@@ -4,7 +4,11 @@ email:
 description: ""
 baseurl: ""
 url: "http://samthompson.me"
-title_description: "I am a software engineer on the core experience team at Pinterest. I love thinking about mobile app architecture and design. I'm a huge fan of Kotlin and applying functional programming principles to build better mobile apps. I'm also excited about emerging mobile technologies like dartlang/flutter and react native. In my spare time I train for XC mountain bike races and explore SF."
+title_description: "I am a software engineer on the core experience team at Pinterest.
+
+I love thinking about mobile app architecture and design and I'm a huge fan of Kotlin and applying functional programming principles to build better mobile apps. I'm also excited about emerging mobile technologies like dartlang/flutter and react native. 
+
+In my spare time I train for XC mountain bike races and explore SF."
 title_image: "https://avatars3.githubusercontent.com/u/4391203?v=3&s=460"
 google_analytics: "UA-70351113-1"
 disqus_account: samthompsonblog
